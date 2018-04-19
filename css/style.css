@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{ margin:0; padding:0;}
+.fl{ float:left;}
+.fr{ float:right;}
+.new{ float:left; margin-left:1%;}
+.clr{ clear:both;}
+.row{ margin-top:10px;}
+.wrapper{}
+/***********************************************/
+.head{ padding:2%; background:#226BDC;}
+.head a{ text-decoration:none;}
+.head h1{ color:#FFF;}
+.nav{}
+.nav ul li{ display:inline;}
+.nav ul li a{ padding:0.50% 3%; background:#DC9622; text-decoration:none; color:#FFF;}
+.mid{ margin-left:1%; margin-right:1%; min-height:450px;}
+.mid_left{ width:79%; min-height:450px; border:1px solid #807979;}
+.mid_left h2{ padding:1%; background:#226BDC; text-align:center; color:#FFF;}
+/****************************************************************/
+.v_card{ height:180px; width:32.65%;}
+.v_cad_wrap{ margin-left:2%; margin-right:2%;}
+.col1{ background:#DC224A;}
+.col2{ background:#3BDC22;}
+.col3{ background:#C2E443;}
+.card_form{ width:60%; height:350px; background:rgba(34,107,220,1.00); margin:0 auto; margin-top:50px;}
+.txt{ height:30px; width:80%; margin-top:10px;} 
+.btn{ height:30px; width:60%; margin-top:10px;}
+.sel{}
+/*****************************************************************/
+.mid_mid{ width:49.5%; min-height:450px; background:#CBBDBE;}
+.card_final{ height:220px; width:60%; margin:0 auto; margin-top:50px;}
+.mid_right{width:19.50%; min-height:450px; border:1px solid #D4C7C7;}
+.footer{ padding:1%; background:#226BDC; text-align:right; color:#FFF;}
